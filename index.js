@@ -97,6 +97,6 @@ function getTask(totalpage){
 }
 
 
-getTask(10);
+getTask(1);
 
 
